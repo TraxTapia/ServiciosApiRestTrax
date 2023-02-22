@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f355d66-64ab-4504-8be5-0ce9b4be8e6f": {
+      "ProjectGuid": "8f355d66-64ab-4504-8be5-0ce9b4be8e6f",
+      "DisplayName": "Trax.ApiServices.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

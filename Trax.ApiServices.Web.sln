@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trax.ApiServices.Web", "Trax.ApiServices.Web\Trax.ApiServices.Web.csproj", "{8F355D66-64AB-4504-8BE5-0CE9B4BE8E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trax.Framework.ApiServicesWeb", "Trax.Framework.ApiServicesWeb\Trax.Framework.ApiServicesWeb.csproj", "{6880DBAF-46A1-4718-9CD1-5829AFA7596E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trax.Models.ApiServicesWeb", "Trax.Models.ApiServicesWeb\Trax.Models.ApiServicesWeb.csproj", "{52B25AEB-7C4B-422C-B7CF-AF10A8FE12CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8F355D66-64AB-4504-8BE5-0CE9B4BE8E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F355D66-64AB-4504-8BE5-0CE9B4BE8E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F355D66-64AB-4504-8BE5-0CE9B4BE8E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6880DBAF-46A1-4718-9CD1-5829AFA7596E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6880DBAF-46A1-4718-9CD1-5829AFA7596E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6880DBAF-46A1-4718-9CD1-5829AFA7596E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6880DBAF-46A1-4718-9CD1-5829AFA7596E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B25AEB-7C4B-422C-B7CF-AF10A8FE12CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B25AEB-7C4B-422C-B7CF-AF10A8FE12CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B25AEB-7C4B-422C-B7CF-AF10A8FE12CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B25AEB-7C4B-422C-B7CF-AF10A8FE12CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

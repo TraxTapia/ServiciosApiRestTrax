@@ -17,3 +17,4 @@ C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.ApiServices.Web\Trax.Framework.A
 C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.ApiServices.Web\Trax.Framework.ApiServicesWeb\obj\Debug\Trax.Framework.ApiServicesWeb.csproj.CopyComplete
 C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.ApiServices.Web\Trax.Framework.ApiServicesWeb\obj\Debug\Trax.Framework.ApiServicesWeb.dll
 C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.ApiServices.Web\Trax.Framework.ApiServicesWeb\obj\Debug\Trax.Framework.ApiServicesWeb.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.ApiServices.Web\Trax.Framework.ApiServicesWeb\bin\Debug\Newtonsoft.Json.dll

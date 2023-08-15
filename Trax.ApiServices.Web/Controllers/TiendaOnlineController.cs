@@ -13,7 +13,7 @@ using Trax.Models.Generic.OperationResult;
 
 namespace Trax.ApiServices.Web.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [RoutePrefix("TiendaWeb")]
     public class TiendaOnlineController : ApiController
     {

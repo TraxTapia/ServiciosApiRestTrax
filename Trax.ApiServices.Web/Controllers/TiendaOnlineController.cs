@@ -13,7 +13,7 @@ using Trax.Models.Generic.OperationResult;
 
 namespace Trax.ApiServices.Web.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [RoutePrefix("TiendaWeb")]
     public class TiendaOnlineController : ApiController
     {
@@ -24,7 +24,7 @@ namespace Trax.ApiServices.Web.Controllers
         }
         [HttpPost]
         [Route("GetListClientes")]
-        //[UserInRole(Application = "MAC.API")]
+        //[UserInRole(Application = "API.Services")]
         public ClientesListResponseDTO GetListClientes()
         {
             var _Response = new ClientesListResponseDTO();

@@ -72,6 +72,14 @@
     <Compile Include="TiendaContextBD\Pedidos.cs" />
     <Compile Include="TiendaContextBD\Productos.cs" />
     <Compile Include="TiendaContextBD\TiendaBdContext.cs" />
+    <Compile Include="Users\Aplications.cs" />
+    <Compile Include="Users\AspNetRoles.cs" />
+    <Compile Include="Users\AspNetUserClaims.cs" />
+    <Compile Include="Users\AspNetUserLogins.cs" />
+    <Compile Include="Users\AspNetUsers.cs" />
+    <Compile Include="Users\C__MigrationHistory.cs" />
+    <Compile Include="Users\RoleContentAuthorization.cs" />
+    <Compile Include="Users\UsersContext.cs" />
     <Compile Include="ViewModels\AccountViewModels.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -66,12 +66,16 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Enum\EnumClaims.cs" />
+    <Compile Include="Enum\Estatus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TiendaContextBD\Clientes.cs" />
     <Compile Include="TiendaContextBD\Direcciones.cs" />
     <Compile Include="TiendaContextBD\Pedidos.cs" />
     <Compile Include="TiendaContextBD\Productos.cs" />
     <Compile Include="TiendaContextBD\TiendaBdContext.cs" />
+    <Compile Include="TiendaWeb\Categoria.cs" />
+    <Compile Include="TiendaWeb\Productos.cs" />
+    <Compile Include="TiendaWeb\TiendaWebContextDB.cs" />
     <Compile Include="Users\Aplications.cs" />
     <Compile Include="Users\AspNetRoles.cs" />
     <Compile Include="Users\AspNetUserClaims.cs" />
